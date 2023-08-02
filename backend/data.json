@@ -1,0 +1,95 @@
+{
+  "employees": [
+    {
+      "full_name": "Sadie Klugel",
+      "email": "sklugel3@vinaora.com",
+      "number": "43243",
+      "shortcode": "46336",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "full_name": "Carissa Aliman",
+      "email": "caliman4@latimes.com",
+      "number": "0",
+      "shortcode": "53-248-8283"
+    },
+    {
+      "id": 3,
+      "full_name": "Arel Woodburn",
+      "email": "awoodburn5@cloudflare.com",
+      "number": "93477",
+      "shortcode": "03-998-2320"
+    },
+    {
+      "id": 4,
+      "full_name": "Alisander Sell",
+      "email": "asell6@posterous.com",
+      "number": "36",
+      "shortcode": "30-513-5656"
+    },
+    {
+      "id": 5,
+      "full_name": "Tedda Moneypenny",
+      "email": "tmoneypenny7@seesaa.net",
+      "number": "6",
+      "shortcode": "38-031-4454"
+    },
+    {
+      "id": 6,
+      "full_name": "Broddie Chawkley",
+      "email": "bchawkley8@goodreads.com",
+      "number": "995",
+      "shortcode": "74-118-4151"
+    },
+    {
+      "id": 7,
+      "full_name": "Haskel McNee",
+      "email": "hmcnee9@barnesandnoble.com",
+      "number": "94710",
+      "shortcode": "53-676-0513"
+    },
+    {
+      "id": 8,
+      "full_name": "Hana Scrannage",
+      "email": "hscrannagea@irs.gov",
+      "number": "240",
+      "shortcode": "88-238-7718"
+    },
+    {
+      "id": 9,
+      "full_name": "Kattie Valentinetti",
+      "email": "kvalentinettib@eventbrite.com",
+      "number": "585",
+      "shortcode": "72-595-0026"
+    },
+    {
+      "id": 10,
+      "full_name": "Murdock Vanyatin",
+      "email": "mvanyatinc@nytimes.com",
+      "number": "8",
+      "shortcode": "07-086-2086"
+    },
+    {
+      "id": 11,
+      "full_name": "Gaelan Brashier",
+      "email": "gbrashierd@hatena.ne.jp",
+      "number": "051",
+      "shortcode": "76-371-0118"
+    },
+    {
+      "id": 12,
+      "full_name": "Gus Lafflina",
+      "email": "glafflinae@wired.com",
+      "number": "7",
+      "shortcode": "65-799-4845"
+    },
+    {
+      "full_name": "İlker A",
+      "email": "ilkerates@berteks.com",
+      "number": "4214135",
+      "shortcode": "43224",
+      "id": 13
+    }
+  ]
+}
